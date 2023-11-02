@@ -16,4 +16,4 @@ This project is licensed under this [MIT License](License.txt)
 ### Acknowledgments
 This project uses the Google Search API to fetch search results.
 
-[Click to see how clone looks like] (#)
+[Click to see how clone looks like] (https://gayumsasiri.github.io/google-search-engine-clone/)
